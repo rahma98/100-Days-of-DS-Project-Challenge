@@ -1,1 +1,1 @@
-# 100-Days-of-ML-Algorithms-Challenge
+# 100-Days-of-DS-Project-Challenge
